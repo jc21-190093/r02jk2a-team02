@@ -15,3 +15,5 @@ class Kadai01Test {
 		assertEquals("321\n",k.reverse("\n123"));
 }
 }
+
+
